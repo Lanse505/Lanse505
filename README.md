@@ -1,3 +1,3 @@
 # Lanse505
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lanse505's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lanse505)](https://github.com/anuraghazra/github-readme-stats)
